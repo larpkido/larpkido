@@ -18,5 +18,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=larpkido&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=888" alt="GitHub Stats" />
   
-  ![snake gif](https://github.com/glockinhand/glockinhand/blob/main/snake.svg)
+  ![snake gif](https://github.com/larpkido/larpkido/blob/main/snake.svg)
 </div>
