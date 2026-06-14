@@ -11,7 +11,7 @@
 <div align="center">
 
 ## 🌐 Join to my discord 🌐
-[![Discord](https://i.ibb.co/4wvbvxhY/images.png)](https://discord.gg/larpkido)
+[![Discord](https://img.shields.io/badge/Discord?logo=discord&logoColor=white)](https://discord.gg/larpkido)
 </div>
 
 <!-- Snake Animation -->
